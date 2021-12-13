@@ -1,5 +1,5 @@
 from django.test import TestCase
-fromd .models import Item
+from .models import Item
 
 
 class TestViews(TestCase):
